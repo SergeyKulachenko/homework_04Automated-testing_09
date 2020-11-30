@@ -42,6 +42,8 @@ dependencies {
     testImplementation 'io.rest-assured:rest-assured:4.3.0'
     testImplementation 'com.google.code.gson:gson:2.8.6'
 
+    testImplementation 'io.qameta.allure:allure-selenide:2.13.0'
+
 }
 
 test {
